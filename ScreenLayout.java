@@ -1,3 +1,8 @@
+/*
+This class/object ScreenLayout is "useless".
+The object itself has no usage, but its instance memory address will be useful to manually adjust container and components.
+*/
+
 import java.awt.*;
 
 public class ScreenLayout implements LayoutManager
